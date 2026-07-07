@@ -1,4 +1,3 @@
-# GitHubCommitBot
 # GitHub Commit Bot 🤖
 
 Bot de Telegram desenvolvido em C# que permite realizar commits em um repositório do GitHub através de mensagens de texto enviadas pelo usuário.
@@ -94,8 +93,6 @@ O projeto ainda está em desenvolvimento. Próximas implementações:
 - [x] READ — busca de configuração para realizar commits
 - [ ] **UPDATE** — permitir que o usuário atualize sua configuração sem precisar recriá-la
 - [ ] **DELETE** — permitir que o usuário remova sua configuração
-- [ ] Testes automatizados
-- [ ] Tratamento de erros mais detalhado para o usuário final (mensagens mais claras no Telegram)
 
 ## 📄 Licença
 
