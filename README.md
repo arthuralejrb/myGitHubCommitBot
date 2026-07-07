@@ -1,1 +1,1 @@
-# myGitHubCommitBot
+# GitHubCommitBot
