@@ -45,7 +45,7 @@ GithubCommitBot/
 
 ## 🔒 Segurança
 
-- Credenciais sensíveis (token do bot e string de conexão com o banco) são carregadas via **variáveis de ambiente**, nunca hardcoded no código.
+- Credenciais sensíveis (token do bot e string de conexão com o banco) são carregadas via **variáveis de ambiente**, nunca hardcoded.
 - Todas as queries ao banco de dados utilizam **parâmetros** (`$1, $2, ...`), prevenindo ataques de SQL Injection.
 
 ## 🚀 Como rodar o projeto
